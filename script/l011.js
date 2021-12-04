@@ -11,7 +11,7 @@ let pi = 3.14;
 // let result = radius % 3; // Sobrante de la división
 // let result = pi * radius**2; // Elevando al cuadrado
 
-// order of operation - B I D M A S // Orden de operaciones
+// order of operation - B I D M A S // Orden de operaciones, parentesis, exponencial, multi y div, suma y resta
 
 // let result = 5 * (10 - 3)**2;
 
@@ -24,6 +24,7 @@ let likes = 10;
 // likes++;
 
 // likes = likes + 10;
+// likes = likes // 3; // División que solo muestra el valor del entero, no muestra decimal
 // likes += 10;
 // likes -= 5;
 // likes *= 2;
